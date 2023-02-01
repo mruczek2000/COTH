@@ -10,8 +10,8 @@
 :root{
     --bg-color: #2a2a2a;
     --second-bg-color: #202020;
-    --text-color: #fff;
-    --second-color: #ccc;
+    --text-color: rgb(228, 228, 228);
+    --second-color: rgb(202, 227, 199);
     --main-color: #78f800;
     --big-font: 5rem;
     --h2-font: 3rem;
@@ -85,7 +85,7 @@ section{
     position: relative;
     height: 100vh;
     width: 100%;
-    background-image: url(img/bg1.jpg);
+    background-image: url(https://cdn.discordapp.com/attachments/943235671433289848/1070377092878979072/2023-01-27_23.54.25.gif);
     background-size: cover;
     background-position: center;
     display: flex;
