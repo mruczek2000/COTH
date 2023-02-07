@@ -12,6 +12,7 @@
     --second-bg-color: #202020;
     --text-color: rgb(228, 228, 228);
     --second-color: rgb(202, 227, 199);
+    --third-color: rgb(117, 250, 102);
     --main-color: #78f800;
     --big-font: 5rem;
     --h2-font: 3rem;
@@ -354,7 +355,7 @@ header.sticky{
 }
 
 .layer p{
-    color: var(--second-color);
+    color: var(--third-color);
     font-size: 1rem;
     line-height: 1.8;
 }
